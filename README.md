@@ -1,5 +1,7 @@
 # plugin.spine (publisherId `com.studycat`)
 
+> **Newer versions:** `plugin.spine42` (Spine 4.2) and `plugin.spine43` (Spine 4.3) continue this plugin, with the same publisher. See https://spineplugin.readthedocs.io/ to install them and for the migration guide. `plugin.spine` stays on 1.2.x and only gets hotfixes.
+
 Spine runtime plugin for Solar2D.
 
 ## Changelog
